@@ -20,6 +20,6 @@
   
   <a href="https://www.linkedin.com/in/helioocosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://https://github.com/heliocosta10/heliocosta-grid-snake/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/heliocosta10/heliocosta-grid-snake/blob/main/github-contribution-grid-snake.svg)
  
 </div>
