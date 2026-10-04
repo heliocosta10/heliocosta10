@@ -8,7 +8,7 @@
 const HelioCostaFullStack = {
   nome: "HELIO COSTA",
   Area: "DESENVOLVIMENTO Full Stack",
-  Linguagens: ["React", "React Native", "Nodejs", "JavaScript", "MySQL"],
+  Linguagens: ["React", "React Native", "Go", "Nodejs", "JavaScript", "MySQL" ],
 };
 ```
 
